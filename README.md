@@ -33,6 +33,14 @@ Movie Details Viewer is an Android application that fetches and displays detaile
 
 ![image](https://github.com/AshrafGamalG3/MoviesApp/assets/159867026/9b786903-9ebf-450b-9222-e2c3cb7f2e7a)   ![image](https://github.com/AshrafGamalG3/MoviesApp/assets/159867026/ad9c005b-7cb9-4e20-8251-539e520e9f94)
 
+## Vedio
+
+
+https://github.com/AshrafGamalG3/MoviesApp/assets/159867026/64665ea3-34af-45d5-bed2-824bd4a35fc1
+
+
+
+
 
 
 
